@@ -9,7 +9,7 @@ function setup(){
     video.hide();
 }
 function draw(){
-    image(video,0,600,500);
+    image(video,0,0,600,500);
 }
 function play(){
     song.play();
