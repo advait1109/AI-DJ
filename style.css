@@ -11,21 +11,6 @@
 .div_speed{
     float:left;
 }
-.div_volume{
-    float: right;
-}
-.div_speed_image{
-    width:200px;
-    border-radius: 100px;
-}
-.div_volume_image{
-    width:200px;
-    border-radius: 100px;
-}
-#speed,#volume{
-    font-size: 20px;
-    margin: 15px;
-}
 body{
     background-size: cover;
 }
@@ -34,6 +19,6 @@ body{
     font-size: 25px;
 }
 canvas{
-    border:5px solid white;
+    border:5px solid black;
     border-radius:20px;
 }
